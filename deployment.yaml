@@ -18,7 +18,7 @@ spec:
         app: gitopsdemo
     spec:
       containers:
-      - image: ravibodireddi/employeeapp:latest
+      - image: ravibodireddi/employeeapp:1
         name: gitopsdemo
         resources: {}
 status: {}
